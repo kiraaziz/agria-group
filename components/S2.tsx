@@ -2,7 +2,7 @@ const S2 = () => {
 
     return (
         <div style={{ backgroundImage: "url(https://agria-group.com.tn/wp-content/uploads/2019/12/fertilization-4048524@2x-scaled.jpg)", backgroundSize: "100%", backgroundRepeat: "no-repeat" }} className="w-full bg-cover h-[70svh] flex items-center justify-center p-10 bg-lime-100">
-            <div className="w-full max-w-2xl p-8 bg-lime-100/10 backdrop-blur-lg rounded-xl flex flex-col gap-2  border-t-8 border-lime-400 z-10 hover:scale-110 ease-in-out duration-200">
+            <div className="w-full max-w-2xl p-8 bg-lime-100/10 backdrop-blur-lg rounded-xl flex flex-col gap-2  border-t-8 border-lime-400 hover:scale-110 ease-in-out duration-200">
                 <h1 className="text-3xl text-white font-extrabold">Les engrais…</h1>
                 <h1 className="text-lg font-semibold text-white">C’est notre métier !</h1>
                 <p className="text-sm font-light text-black lg:text-white/60">
