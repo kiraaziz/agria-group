@@ -14,3 +14,12 @@ body {
 .link:hover div{
   @apply w-full
 }
+
+
+nav:hover .effect1{
+  @apply scale-[200] 
+}
+
+nav:hover .effect2{
+  @apply scale-[100] 
+}

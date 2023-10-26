@@ -8,7 +8,7 @@ const S1 = () => {
             </div>
             <div className="py-5 flex lg:flex-row flex-col gap-2 max-h-96">
                 <div className="flex items-center justify-center overflow-hidden rounded-xl border-b-8 border-lime-500 flex-1">
-                    <img className="hover:scale-125 ease-in-out duration-200" src="https://agria-group.com.tn/wp-content/uploads/2023/04/biostimulant-01-1536x841.png" />
+                    <img className="hover:scale-125 ease-in-out duration-200" src="/images/5.webp" />
                 </div>
                 <div className="gap-3 flex max-w-md items-start p-7 group flex-col bg-lime-400/20 rounded-lg">
                     <h1 className="text-3xl font-semibold text-black/60 max-w-lg ">Nouvelles solutions biostimulantes
