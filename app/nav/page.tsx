@@ -6,7 +6,11 @@ import S3 from '@/components/S3'
 import S4 from '@/components/S4'
 import Box from '@/components/Box'
 
-const Page = () => {
+
+
+const Page = async() => {
+
+    await new Promise((res)=>setTimeout(res, 2500))
 
     return (
         <>
